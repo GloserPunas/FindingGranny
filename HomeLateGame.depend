@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1681036484 source:c:\users\admin\onedrive\documents\c++\homelategame\main.cpp
+	<iostream>
+	"Game.h"
+	<SDL.h>
+
+1678715520 source:c:\users\admin\onedrive\documents\c++\homelategame\window.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<math.h>
+
+1681036132 source:c:\users\admin\onedrive\documents\c++\homelategame\game.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"TextureManager.h"
+	"GameObject.h"
+	"Map.h"
+
+1680849578 c:\users\admin\onedrive\documents\c++\homelategame\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1680659419 source:c:\users\admin\onedrive\documents\c++\homelategame\texturemanager.cpp
+	"TextureManager.h"
+
+1680659419 c:\users\admin\onedrive\documents\c++\homelategame\texturemanager.h
+	"Game.h"
+
+1680835162 c:\users\admin\onedrive\documents\c++\homelategame\gameobject.h
+	"Game.h"
+
+1680834715 source:c:\users\admin\onedrive\documents\c++\homelategame\gameobject.cpp
+	"GameObject.h"
+	"TextureManager.h"
+
+1680772976 source:c:\users\admin\onedrive\documents\c++\homelategame\map.cpp
+	"Map.h"
+	"TextureManager.h"
+
+1680772976 c:\users\admin\onedrive\documents\c++\homelategame\map.h
+	"Game.h"
+
