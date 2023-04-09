@@ -7,7 +7,7 @@ You are a pet therapist, who really love your owner - Granny. Unfortunately, Gra
 #HOW TO PLAY:
 
 - Use button UP, RIGHT, LEFT and DOWN to move the cat.
-- Use LEFT MOUSE to pick up items and to use.
+- Use ENTER to pick up items and use.
 
 #REQUIRED:
 - CodeBlock
